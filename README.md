@@ -1,8 +1,13 @@
 ![Header](https://media.giphy.com/media/32coaeMqPIj0Wap1kS/giphy.gif)
+### I'am Beginer Frontend Developer
+
+---------------------------------------------------
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+
+---------------------------------------------------
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vladislav2025)
@@ -11,9 +16,10 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lemeshevsky99)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/vlad.leshevsky/)
 
+---------------------------------------------------
 
 ### Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pastilkaxo)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pastilkaxo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastilkaxo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastilkaxo&langs_count=8)
