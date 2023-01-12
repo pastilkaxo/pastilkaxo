@@ -18,8 +18,3 @@
 
 ---------------------------------------------------
 
-### Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pastilkaxo)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastilkaxo&langs_count=8)
