@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @pastilkaxo
-- 👀 I’m interested in video games ,so i want to create something new 😄
-- 🌱 I’m currently learning HTML,CSS,C++,C# and mb smth new will be soon...😅
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
-<!---
-pastilkaxo/pastilkaxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vladislav2025)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/vladik_vodopadik25/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladislav-lemiasheusky-610a82251/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lemeshevsky99)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/vlad.leshevsky/)
+
+
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastilkaxo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastilkaxo)](https://github.com/anuraghazra/github-readme-stats)
