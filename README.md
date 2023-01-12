@@ -1,5 +1,10 @@
 ![Header](https://media.giphy.com/media/32coaeMqPIj0Wap1kS/giphy.gif)
-### I'am Beginer Frontend  and Backend Developer
+
+### Sup! ✌️
+
+My name is Vlad, 18 years old . I'am a beginer developer in the IT field 😎 . I am actively studying languages such as JavaScript and C/C++ 🔍
+
+At the moment I am striving for new knowledge🏃
 
 ---------------------------------------------------
 
