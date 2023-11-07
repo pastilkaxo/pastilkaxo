@@ -6,7 +6,7 @@ My name is Vlad, 19 years old . I'am a beginer developer in the IT field 😎 . 
 
 At the moment I am striving for new knowledge🏃
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pastilkaxo&label=Profile%20views&color=00CED1&style=flat-square" alt="bxr1ng" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pastilkaxo&label=Profile%20views&color=00CED1&style=flat-square" alt="bxr1ng" /> </p>
    
 ---------------------------------------------------
 
