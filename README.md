@@ -38,14 +38,6 @@ At the moment I am striving for new knowledge🏃
   <br/>
 </details>
 
-<details> 
-  <summary>🔥 GitHub Streak Stats</summary>
-  <br/>
-    <a href="https://github.com/pastilkaxo">
-    <img alt="DimaXDD's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pastilkaxo&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <br/>
-</details>
 
 
 
