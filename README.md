@@ -2,7 +2,7 @@
 
 ### Sup! ✌️
 
-My name is Vlad, 20 years old . I'am a beginer developer in the IT field 😎 . I am actively studying languages such as JavaScript, React/Redux, C# and Vue.js 🔍
+My name is Vlad, 20 years old . I'am a beginer developer in the IT field 😎 . I am actively studying languages such as JavaScript, React/Redux, C#, TypeScript and Vue.js 🔍
 
 At the moment I am striving for new knowledge🏃
 
