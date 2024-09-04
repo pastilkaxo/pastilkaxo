@@ -2,7 +2,8 @@
 
 ### Sup! ✌️
 
-My name is Vlad, 20 years old . I'am a beginer developer in the IT field 😎 . I am actively studying languages such as JavaScript, React/Redux, C#, TypeScript and Vue.js 🔍
+My name is Vlad, 20 years old . I'am a beginer developer in the IT field 😎 . I am actively studying languages such as JavaScript, React/Redux, C#, TypeScript and Apex 
+Also studying for Salesforce App Builder's certification 🔍
 
 At the moment I am striving for new knowledge🏃
 
